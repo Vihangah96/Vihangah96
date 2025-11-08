@@ -1,6 +1,6 @@
 # Hi, I'm Vihanga Hettiarachchi 👋
 
-Engineering graduate exploring technology and web design.  
+Exploring technology and web design.  
 Focused on building strong fundamentals and practical solutions in the digital space.
 
 ### 🌱 Currently Learning
